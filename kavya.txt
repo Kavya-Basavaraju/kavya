@@ -1,0 +1,22 @@
+My Name is KAVYA.B
+ I am From CHITRADURGA currently staying in VIDHAYARANYAPURA Bangalore,
+I've Completed BE COMPUTER SCIENCE from SIRMVIT college of engineering
+in the year 2024 with aggregate of CGPA :8.0,
+I am Good Technical Skill like HTML,CSS,JAVA,GITANDGITHUB,JAVASCRIPT
+ As a part of my academies I've worked on Projects like
+
+  Diabetic Retinopathy Evaluation Using Deep Neural Networks:
+ •	Objective: This project is focused on improving the detection of diabetic retinopathy by using deep learning, which helps overcome limitations like a shortage of trained clinicians, time constraints, and delays in data processing.
+ •	Key Technologies: Deep Neural Networks (DNNs), probably Convolutional Neural Networks (CNNs) for image processing, achieving 90% accuracy in diagnosis.
+ •	Impact: It aims to detect diabetic retinopathy early, which can greatly improve patient outcomes by preventing vision loss.
+
+
+  Online Movie Ticket Booking System:
+•	Objective: Streamlining the movie ticket booking process through an intuitive web-based platform.
+•	Key Technologies: Web development (likely using HTML, CSS, JavaScript, and backend frameworks), payment integration, email automation.
+•	Impact: It provides a user-friendly experience for customers, improving convenience and efficiency in booking movie tickets.
+
+    Online Learning Platform:
+•	Objective: Creating an online platform to support remote education, likely with features like course management and student tracking.
+•	Key Technologies: Web Progression(e.g., React, Python/Django), perhaps integration with database systems to store user data and progress.
+•	Impact: It supports the growing trend of online learning, making education accessible and more engaging.
